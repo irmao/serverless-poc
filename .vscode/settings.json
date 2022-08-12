@@ -1,0 +1,14 @@
+{
+  "files.exclude": {
+    "node_modules": true,
+    ".webpack": true,
+    ".esbuild": true,
+    ".vscode": true,
+    ".serverless": true
+  },
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  }
+}

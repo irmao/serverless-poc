@@ -1,0 +1,15 @@
+# aws credentials
+.aws/config
+.aws/credentials
+
+# package directories
+node_modules
+jspm_packages
+
+# Serverless directories
+.serverless
+
+# esbuild directories
+.esbuild
+
+.webpack
